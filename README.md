@@ -17,7 +17,8 @@ This repository contains a Webots simulation for comparing **manual drone contro
 - **Assistance Type:** Gaze-based yaw and pitch biasing with tunable strength
 
 ---
-
+<iframe src="https://drive.google.com/file/d/1-pbvsPLCOfkpKlMhL0-xzVmgoVVs6b36/preview" 
+        width="640" height="480" allow="autoplay"></iframe>
 ## 📁 Folder Structure
 
 ```
